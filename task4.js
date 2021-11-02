@@ -1,6 +1,6 @@
-function capitalizeStr(str){
-  return str[0].toUpperCase()+ str.slice(1);
+function capitalize(string) {
+  return string[0].toUpperCase()+ string.slice(1);
 
 }
 
-module.exports = capitalizeStr;
+module.exports = capitalize;

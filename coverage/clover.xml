@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1635869285301" clover="3.2.0">
-  <project timestamp="1635869285301" name="All files">
+<coverage generated="1635869794415" clover="3.2.0">
+  <project timestamp="1635869794416" name="All files">
     <metrics statements="17" coveredstatements="16" conditionals="4" coveredconditionals="3" methods="7" coveredmethods="7" elements="28" coveredelements="26" complexity="0" loc="17" ncloc="17" packages="1" files="4" classes="4"/>
     <file name="task1.js" path="C:\Users\Jhilick\Desktop\Projects\Testing-practice\task1.js">
       <metrics statements="4" coveredstatements="3" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>

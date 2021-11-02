@@ -58,10 +58,10 @@ BRH:0
 end_of_record
 TN:
 SF:task4.js
-FN:1,capitalizeStr
+FN:1,capitalize
 FNF:1
 FNH:1
-FNDA:1,capitalizeStr
+FNDA:1,capitalize
 DA:2,1
 DA:6,1
 LF:2
